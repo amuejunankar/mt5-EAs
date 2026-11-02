@@ -4,11 +4,60 @@ A horizontal one-click trading panel for MetaTrader 5. Place trades, size lots b
 
 > **Risk warning:** Trading leveraged products carries a high risk of loss. This tool is provided as-is, with no warranty. Test on a **demo account** before using it live.
 
-<img width="1022" height="143" alt="image" src="https://github.com/user-attachments/assets/8b861667-79c3-4d05-9aa8-cdd0f994dbd1" />
+---
 
-<img width="1013" height="168" alt="image" src="https://github.com/user-attachments/assets/39cef7dc-f1fd-42ed-a56f-f4a9d9395a67" />
+## Screenshots
 
-<img width="1725" height="773" alt="image" src="https://github.com/user-attachments/assets/fe86b29e-1346-4d92-a380-ba3f10264975" />
+<p align="center"><em>Each screenshot sits in its own bordered frame with spacing between them.</em></p>
+
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <th align="center">Panel — trade &amp; manage rows</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br>
+      <img src="https://github.com/user-attachments/assets/8b861667-79c3-4d05-9aa8-cdd0f994dbd1" alt="QuickTradePanel trade and manage rows" width="95%">
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<table align="center" width="100%">
+  <tr>
+    <th align="center">Panel — stats row &amp; options</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br>
+      <img src="https://github.com/user-attachments/assets/39cef7dc-f1fd-42ed-a56f-f4a9d9395a67" alt="QuickTradePanel stats row and options" width="95%">
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<table align="center" width="100%">
+  <tr>
+    <th align="center">Panel on a live chart</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br>
+      <img src="https://github.com/user-attachments/assets/fe86b29e-1346-4d92-a380-ba3f10264975" alt="QuickTradePanel running on an MT5 chart" width="95%">
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
 
 ## Features
 
