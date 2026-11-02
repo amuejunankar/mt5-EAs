@@ -4,7 +4,9 @@ A horizontal one-click trading panel for MetaTrader 5. Place trades, size lots b
 
 > **Risk warning:** Trading leveraged products carries a high risk of loss. This tool is provided as-is, with no warranty. Test on a **demo account** before using it live.
 
----
+<img width="1022" height="143" alt="image" src="https://github.com/user-attachments/assets/8b861667-79c3-4d05-9aa8-cdd0f994dbd1" />
+<img width="1013" height="168" alt="image" src="https://github.com/user-attachments/assets/39cef7dc-f1fd-42ed-a56f-f4a9d9395a67" />
+
 
 ## Features
 
