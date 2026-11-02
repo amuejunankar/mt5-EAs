@@ -8,6 +8,7 @@ A horizontal one-click trading panel for MetaTrader 5. Place trades, size lots b
 
 <img width="1013" height="168" alt="image" src="https://github.com/user-attachments/assets/39cef7dc-f1fd-42ed-a56f-f4a9d9395a67" />
 
+![Uploading image.png…]()
 
 ## Features
 
